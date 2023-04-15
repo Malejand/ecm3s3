@@ -1,0 +1,7 @@
+# Definiendo las variables
+a = 20
+b = 30
+# definiendo la funcion
+multiplicacion = a * b
+# imprimiendo el resultado
+print("el resultado de multiplicar a y b es ", multiplicacion)
